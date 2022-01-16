@@ -3,7 +3,9 @@ import React from 'react';
 function App() {
   return (
     <div>
-      App Placeholder
+      <h1>hello</h1>
+      {/* font-family: 'Bitter', serif; */}
+      {/* font-family: 'Montserrat', sans-serif; */}
     </div>
   );
 }
